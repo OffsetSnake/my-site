@@ -46,6 +46,12 @@ body {
   background-image: url("img/icon-phone-header.svg");
 }
 
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
 .hero-image {
   margin-bottom: 620px;
 }
