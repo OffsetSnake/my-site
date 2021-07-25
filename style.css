@@ -67,13 +67,6 @@ body {
   line-height: 48px;
 }
 
-.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
-    border: 5px solid #712073;}
-
 .intro {
   margin: 0 0 120px;
 }
@@ -86,9 +79,12 @@ body {
 }
 
 .user-image {
-  margin: 0 0 32px;
-  text-align: center;
-}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: 5px solid #712073;
+  }
 
 .intro h3,
 .portfolio h3 {
