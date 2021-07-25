@@ -1,2 +1,2 @@
 # my-site
-My first site on github
+https://offsetsnake.github.io/my-site/
